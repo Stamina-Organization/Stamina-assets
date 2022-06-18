@@ -1,1 +1,2 @@
 # Stamina-assets
+bjr
